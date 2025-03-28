@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CH4_PluginModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b361aee1aa6ad0d83c7c89a2dae51dce33713f32")]
 [assembly: System.Reflection.AssemblyProductAttribute("CH4_PluginModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CH4_PluginModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

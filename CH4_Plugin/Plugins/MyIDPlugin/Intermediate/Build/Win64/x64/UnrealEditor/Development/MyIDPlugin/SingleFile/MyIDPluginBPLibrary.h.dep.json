@@ -1,12 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\singlefile\\myidpluginbplibrary.h.cpp",
+        "Source": "c:\\git\\plugin\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\singlefile\\myidpluginbplibrary.h.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\definitions.myidplugin.h",
-            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\intermediate\\build\\win64\\x64\\ch4_plugineditor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
-            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\source\\myidplugin\\public\\myidpluginbplibrary.h",
+            "c:\\git\\plugin\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\definitions.myidplugin.h",
+            "c:\\git\\plugin\\ch4_plugin\\intermediate\\build\\win64\\x64\\ch4_plugineditor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
+            "c:\\git\\plugin\\ch4_plugin\\plugins\\myidplugin\\source\\myidplugin\\public\\myidpluginbplibrary.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintfunctionlibrary.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\coreminimal.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -439,7 +440,6 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\algo\\impl\\rangepointertype.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\math\\ray.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\math\\vector2dhalf.h",
-            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintfunctionlibrary.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\objectmacros.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\script.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\threadsingleton.h",
@@ -570,7 +570,7 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\enumproperty.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\coreuobject\\public\\uobject\\fieldpathproperty.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintfunctionlibrary.generated.h",
-            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidpluginbplibrary.generated.h"
+            "c:\\git\\plugin\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidpluginbplibrary.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\source\\ch4_plugin\\ch4_plugin.cpp",
+        "Source": "c:\\git\\plugin\\ch4_plugin\\source\\ch4_plugin\\ch4_plugin.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\intermediate\\build\\win64\\x64\\ch4_plugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\git\\plugin\\ch4_plugin\\intermediate\\build\\win64\\x64\\ch4_plugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ch4_plugin\\definitions.ch4_plugin.h",
-            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\source\\ch4_plugin\\ch4_plugin.h"
+            "c:\\git\\plugin\\ch4_plugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ch4_plugin\\definitions.ch4_plugin.h",
+            "c:\\git\\plugin\\ch4_plugin\\source\\ch4_plugin\\ch4_plugin.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

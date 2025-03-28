@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RSbBvrK648o=",
+  "dgSpecHash": "cVusW3kAg34=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\Unreal_Projects\\CH4_Plugin\\Intermediate\\Build\\BuildRulesProjects\\CH4_PluginModuleRules\\CH4_PluginModuleRules.csproj",
+  "projectFilePath": "C:\\Git\\Plugin\\CH4_Plugin\\Intermediate\\Build\\BuildRulesProjects\\CH4_PluginModuleRules\\CH4_PluginModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\blake3\\1.1.0\\blake3.1.1.0.nupkg.sha512",

@@ -1,5 +1,5 @@
 /I "."
-/I "C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Source"
+/I "C:\Git\Plugin\CH4_Plugin\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"

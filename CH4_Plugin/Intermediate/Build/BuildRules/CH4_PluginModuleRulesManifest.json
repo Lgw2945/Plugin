@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\USER\\Documents\\Unreal_Projects\\CH4_Plugin\\Source\\CH4_Plugin\\CH4_Plugin.Build.cs",
-		"C:\\Users\\USER\\Documents\\Unreal_Projects\\CH4_Plugin\\Plugins\\MyIDPlugin\\Source\\MyIDPlugin\\MyIDPlugin.Build.cs",
-		"C:\\Users\\USER\\Documents\\Unreal_Projects\\CH4_Plugin\\Source\\CH4_Plugin.Target.cs",
-		"C:\\Users\\USER\\Documents\\Unreal_Projects\\CH4_Plugin\\Source\\CH4_PluginEditor.Target.cs"
+		"C:\\Git\\Plugin\\CH4_Plugin\\Source\\CH4_Plugin\\CH4_Plugin.Build.cs",
+		"C:\\Git\\Plugin\\CH4_Plugin\\Plugins\\MyIDPlugin\\Source\\MyIDPlugin\\MyIDPlugin.Build.cs",
+		"C:\\Git\\Plugin\\CH4_Plugin\\Source\\CH4_Plugin.Target.cs",
+		"C:\\Git\\Plugin\\CH4_Plugin\\Source\\CH4_PluginEditor.Target.cs"
 	],
 	"EngineVersion": "5.5.4"
 }

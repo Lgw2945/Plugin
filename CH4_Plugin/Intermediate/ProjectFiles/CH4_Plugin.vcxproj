@@ -67,7 +67,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C67DFA7A-C501-33C5-8444-2ED626514DCE}</ProjectGuid>
+    <ProjectGuid>{619A68C5-C234-3983-94B3-06F29E992305}</ProjectGuid>
     <RootNamespace>CH4_Plugin</RootNamespace>
   </PropertyGroup>
   <Import Project="UECommon.props" />
@@ -540,6 +540,7 @@
       <ForcedIncludeFiles>$(ClCompile_ForcedIncludeFiles)</ForcedIncludeFiles>
     </ClCompile>
     <None Include="..\..\Plugins\MyIDPlugin\MyIDPlugin.uplugin"/>
+    <None Include="..\..\Plugins\MyIDPlugin\Config\FilterPlugin.ini"/>
     <None Include="..\..\Plugins\MyIDPlugin\Resources\Icon128.png"/>
     <None Include="..\..\Source\CH4_Plugin\CH4_Plugin.Build.cs"/>
     <ClCompile Include="..\..\Source\CH4_Plugin\CH4_Plugin.cpp">

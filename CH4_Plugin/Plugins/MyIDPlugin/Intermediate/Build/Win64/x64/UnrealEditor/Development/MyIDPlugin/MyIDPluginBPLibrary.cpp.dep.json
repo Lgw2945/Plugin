@@ -1,14 +1,14 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\source\\myidplugin\\private\\myidpluginbplibrary.cpp",
+        "Source": "c:\\git\\plugin\\ch4_plugin\\plugins\\myidplugin\\source\\myidplugin\\private\\myidpluginbplibrary.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\intermediate\\build\\win64\\x64\\ch4_plugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\git\\plugin\\ch4_plugin\\intermediate\\build\\win64\\x64\\ch4_plugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\definitions.myidplugin.h",
-            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\source\\myidplugin\\public\\myidpluginbplibrary.h",
-            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidpluginbplibrary.generated.h",
-            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\source\\myidplugin\\public\\myidplugin.h"
+            "c:\\git\\plugin\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\definitions.myidplugin.h",
+            "c:\\git\\plugin\\ch4_plugin\\plugins\\myidplugin\\source\\myidplugin\\public\\myidpluginbplibrary.h",
+            "c:\\git\\plugin\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidpluginbplibrary.generated.h",
+            "c:\\git\\plugin\\ch4_plugin\\plugins\\myidplugin\\source\\myidplugin\\public\\myidplugin.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

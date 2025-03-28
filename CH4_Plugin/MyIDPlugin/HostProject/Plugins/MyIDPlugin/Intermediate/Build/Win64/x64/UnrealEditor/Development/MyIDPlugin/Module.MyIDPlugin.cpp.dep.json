@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\module.myidplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\definitions.myidplugin.h",
+            "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidplugin.init.gen.cpp",
+            "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidpluginbplibrary.gen.cpp",
+            "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\plugins\\myidplugin\\source\\myidplugin\\public\\myidpluginbplibrary.h",
+            "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidpluginbplibrary.generated.h",
+            "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

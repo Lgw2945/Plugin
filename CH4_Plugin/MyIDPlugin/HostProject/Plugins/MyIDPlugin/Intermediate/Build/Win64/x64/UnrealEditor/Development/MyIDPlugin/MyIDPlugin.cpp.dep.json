@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\plugins\\myidplugin\\source\\myidplugin\\private\\myidplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\definitions.myidplugin.h",
+            "c:\\git\\plugin\\ch4_plugin\\myidplugin\\hostproject\\plugins\\myidplugin\\source\\myidplugin\\public\\myidplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

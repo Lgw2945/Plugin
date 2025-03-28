@@ -36,10 +36,10 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 /NOIMPLIB
-"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\CH4_PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH4_Plugin\CH4_Plugin.cpp.obj"
-"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH4_Plugin\PerModuleInline.gen.cpp.obj"
-"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH4_Plugin\Default.rc2.res"
+"C:\Git\Plugin\CH4_Plugin\Intermediate\Build\Win64\x64\CH4_PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Git\Plugin\CH4_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH4_Plugin\CH4_Plugin.cpp.obj"
+"C:\Git\Plugin\CH4_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH4_Plugin\PerModuleInline.gen.cpp.obj"
+"C:\Git\Plugin\CH4_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH4_Plugin\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -70,6 +70,6 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Binaries\Win64\UnrealEditor-CH4_Plugin.dll"
-/PDB:"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Binaries\Win64\UnrealEditor-CH4_Plugin.pdb"
+/OUT:"C:\Git\Plugin\CH4_Plugin\Binaries\Win64\UnrealEditor-CH4_Plugin.dll"
+/PDB:"C:\Git\Plugin\CH4_Plugin\Binaries\Win64\UnrealEditor-CH4_Plugin.pdb"
 /ignore:4078

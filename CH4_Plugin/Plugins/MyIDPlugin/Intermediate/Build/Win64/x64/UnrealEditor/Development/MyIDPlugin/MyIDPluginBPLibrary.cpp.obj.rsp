@@ -1,12 +1,12 @@
-"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Plugins\MyIDPlugin\Source\MyIDPlugin\Private\MyIDPluginBPLibrary.cpp"
-/FI"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\CH4_PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\Definitions.MyIDPlugin.h"
-/Yu"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\CH4_PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\CH4_PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPluginBPLibrary.cpp.obj"
-/experimental:log "C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPluginBPLibrary.cpp.sarif"
-/sourceDependencies "C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPluginBPLibrary.cpp.dep.json"
-@"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPlugin.Shared.rsp"
+"C:\Git\Plugin\CH4_Plugin\Plugins\MyIDPlugin\Source\MyIDPlugin\Private\MyIDPluginBPLibrary.cpp"
+/FI"C:\Git\Plugin\CH4_Plugin\Intermediate\Build\Win64\x64\CH4_PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Git\Plugin\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\Definitions.MyIDPlugin.h"
+/Yu"C:\Git\Plugin\CH4_Plugin\Intermediate\Build\Win64\x64\CH4_PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Git\Plugin\CH4_Plugin\Intermediate\Build\Win64\x64\CH4_PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Git\Plugin\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPluginBPLibrary.cpp.obj"
+/experimental:log "C:\Git\Plugin\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPluginBPLibrary.cpp.sarif"
+/sourceDependencies "C:\Git\Plugin\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPluginBPLibrary.cpp.dep.json"
+@"C:\Git\Plugin\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPlugin.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

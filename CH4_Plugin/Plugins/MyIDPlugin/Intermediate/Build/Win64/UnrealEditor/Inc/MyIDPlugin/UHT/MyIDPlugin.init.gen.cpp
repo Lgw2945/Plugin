@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeMyIDPlugin_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x9757A5CD,
+				0x7B39965F,
 				0x9165C5BC,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeMyIDPlugin_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_MyIDPlugin.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MyIDPlugin(Z_Construct_UPackage__Script_MyIDPlugin, TEXT("/Script/MyIDPlugin"), Z_Registration_Info_UPackage__Script_MyIDPlugin, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x9757A5CD, 0x9165C5BC));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_MyIDPlugin(Z_Construct_UPackage__Script_MyIDPlugin, TEXT("/Script/MyIDPlugin"), Z_Registration_Info_UPackage__Script_MyIDPlugin, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x7B39965F, 0x9165C5BC));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
