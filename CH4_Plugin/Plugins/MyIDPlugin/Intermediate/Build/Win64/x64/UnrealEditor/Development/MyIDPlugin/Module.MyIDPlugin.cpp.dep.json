@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\module.myidplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\intermediate\\build\\win64\\x64\\ch4_plugineditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\definitions.myidplugin.h",
+            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidplugin.init.gen.cpp",
+            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidpluginbplibrary.gen.cpp",
+            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\source\\myidplugin\\public\\myidpluginbplibrary.h",
+            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidpluginbplibrary.generated.h",
+            "c:\\users\\user\\documents\\unreal_projects\\ch4_plugin\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

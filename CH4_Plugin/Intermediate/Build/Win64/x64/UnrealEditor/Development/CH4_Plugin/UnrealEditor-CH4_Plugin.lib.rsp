@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CH4_Plugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\CH4_PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH4_Plugin\CH4_Plugin.cpp.obj"
+"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH4_Plugin\PerModuleInline.gen.cpp.obj"
+"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH4_Plugin\Default.rc2.res"
+/OUT:"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\CH4_Plugin\UnrealEditor-CH4_Plugin.lib"

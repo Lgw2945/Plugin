@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CH4_Plugin",
+			"Path": "..\\Source\\CH4_Plugin.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CH4_PluginEditor",
+			"Path": "..\\Source\\CH4_PluginEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

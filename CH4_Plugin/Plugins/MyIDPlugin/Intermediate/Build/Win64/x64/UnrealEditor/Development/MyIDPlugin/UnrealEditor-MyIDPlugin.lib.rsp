@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyIDPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Intermediate\Build\Win64\x64\CH4_PluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\Module.MyIDPlugin.cpp.obj"
+"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPlugin.cpp.obj"
+"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPluginBPLibrary.cpp.obj"
+"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\Default.rc2.res"
+/OUT:"C:\Users\USER\Documents\Unreal_Projects\CH4_Plugin\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\UnrealEditor-MyIDPlugin.lib"
